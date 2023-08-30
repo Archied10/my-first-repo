@@ -5,3 +5,5 @@ NPM     : 2206826476
 Kelas   : PBP A
 
 Hobi    : Tidur
+
+Jurusan : Sistem Informasi
